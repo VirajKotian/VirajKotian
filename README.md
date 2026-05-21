@@ -1,3 +1,4 @@
+# Hii 🙌 I'm Viraj Kotian 
 # 💫 About Me:
 > QA Automation Engineer with hands-on experience in building and maintaining automation frameworks using Playwright<br>with JavaScript/TypeScript. Skilled in functional, regression, API, and end-to-end testing with experience across workflow<br>automation and inventory management platforms. <br>> Experienced in CI/CD integration, workflow validation, and scalable test<br>automation using Jenkins, Postman, and modern QA practices to ensure reliable software delivery.
 
